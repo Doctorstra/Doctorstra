@@ -20,12 +20,12 @@ You can use the website to generate badges: https://shields.io/
 
 
 ### My Github Status
-![UvinduBro's GitHub Status](https://github-readme-stats.vercel.app/api?username=UvinduBro&theme=dark&show_icons=true)
+![Doctorstrs's GitHub Status](https://github-readme-stats.vercel.app/api?username=Doctorstra&theme=dark&show_icons=true)
 
-- ![Profile views](https://gpvc.arturio.dev/UvinduBro)
+- ![Profile views](https://gpvc.arturio.dev/Doctorstra)
 
 
-<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UvinduBro&theme=alduin" alt="UvinduBro" /></a> </p>
+<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Doctorstra&theme=alduin" alt="Doctorstra" /></a> </p>
 
 
 
@@ -60,14 +60,10 @@ You can use the website to generate badges: https://shields.io/
 
 
 # MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduBro&theme=dark&show_icons=true)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Doctorstra&theme=dark&show_icons=true)
 
 # CONTACT ME ON
 
 <p align="left">
 <a href="https://t.me/Doctorstra1" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/_____.Dotorstra._____" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/uvindubropage" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCBNsVUq2MLyxDSe62ljjWdQ" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/UvinduBro" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>

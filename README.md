@@ -60,7 +60,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 # MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Doctorstra&theme=dark&show_icons=true)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=trozanzhex&theme=dark&show_icons=true)
 
 # CONTACT ME ON
 

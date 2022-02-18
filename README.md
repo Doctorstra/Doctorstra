@@ -1,5 +1,5 @@
 
-<img src="https://telegra.ph/file/f90b04d15e7f34eaa4376.jpg" />
+<img src="https://telegra.ph/file/dbe951a55337c11f00522.png" />
 
 
 

@@ -61,7 +61,7 @@ You can use the website to generate badges: https://shields.io/
 <img src="https://telegra.ph/file/01aed5d11867fcd86c1e5.jpg">
 
 
-# <img align="right" alt="GIF" src="https://media.giphy.com/media/5294238d34956478f4832/giphy.gif" />
+# <img align="right" alt="GIF" src="https://i.gifer.com/media/Emhs/gifer.gif" />
 
 
 

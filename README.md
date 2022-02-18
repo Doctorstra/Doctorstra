@@ -1,7 +1,7 @@
 # PROFILE
 
 <img src="https://telegra.ph/file/dbe951a55337c11f00522.png" />
-                                                                                                                                                            
+ <img src="https://telegra.ph/file/1552f63e14d2d2b96f37a.png" />                                                                                                                                                           
 # Hey, I am Doctorstra <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
 <p align="center">

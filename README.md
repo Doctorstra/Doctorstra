@@ -63,7 +63,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-#  align="center">
+<h1 align="center">
 ✨ Where you can find me ✨
 
 <p align="left">

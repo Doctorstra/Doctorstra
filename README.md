@@ -57,7 +57,7 @@ You can use the website to generate badges: https://shields.io/
   <br>
 </p>  
 
-<gif src="https://telegra.ph/file/5294238d34956478f4832.mp4"
+<gif src="https://telegra.ph/file/5294238d34956478f4832.mp4">
 
 
 

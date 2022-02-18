@@ -60,12 +60,15 @@ You can use the website to generate badges: https://shields.io/
 # MOST USED LANGUAGES
 <img src="https://telegra.ph/file/01aed5d11867fcd86c1e5.jpg">
 
-<img align="right" alt="GIF" src="https://i.gifer.com/Emhs.gif" />
+<img align="right" alt="GIF" src="https://i.gifer.com/i/Emhs/gifer.gif" />
+
 
 
 
 <h1 align="center">
 ✨ Where you can find me ✨
+
+
 
 <p align="left">
 <a href="https://t.me/D1D2D3D4D5_BOT" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;

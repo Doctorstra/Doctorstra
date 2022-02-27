@@ -88,3 +88,5 @@ You can use the website to generate badges: https://shields.io/
 <p align="center">
 <a href="https://t.me/+PyobDAisj5BjYmI1" target="blank"><img align="center" src="https://telegra.ph/file/b47746769d45aaa62d4b2.png" height="100" width="100" /></a> &nbsp;&nbsp;
 </p>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/VGK2WUT3amXjG/giphy.gif" />

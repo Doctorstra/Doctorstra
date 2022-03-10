@@ -30,6 +30,8 @@ You can use the website to generate badges: https://shields.io/
 ### My Github Status
 ![Doctorstrs's GitHub Status](https://github-readme-stats.vercel.app/api?username=Doctorstra&theme=dark&show_icons=true)
 
+<img src="https://telegra.ph/file/123a75a8a5dbd67632b56.jpg" />
+
 
 - ![Profile views](https://gpvc.arturio.dev/Doctorstra)
 

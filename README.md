@@ -74,7 +74,7 @@ You can use the website to generate badges: https://shields.io/
 <img src="https://telegra.ph/file/01aed5d11867fcd86c1e5.jpg">
 
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=100&lines=🇮🇳)](https://git.io/typing-svg)
 
 
 

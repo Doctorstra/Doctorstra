@@ -76,9 +76,6 @@ You can use the website to generate badges: https://shields.io/
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=100&center=true&width=250&height=250&lines=%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&color=4FC428&lines=✨𝗪𝗵𝗲𝗿𝗲+𝘆𝗼𝘂+𝗰𝗮𝗻+𝗳𝗶𝗻𝗱+𝗺𝗲✨)](https://git.io/typing-svg)
 
 

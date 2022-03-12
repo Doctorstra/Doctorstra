@@ -36,7 +36,9 @@ You can use the website to generate badges: https://shields.io/
 
 <img src="https://telegra.ph/file/123a75a8a5dbd67632b56.jpg" />
 
+![Snake animation](https://github.com/Pratyay360/Pratyay360/blob/output/github-contribution-grid-snake.svg)
 
+</div>
 - ![Profile views](https://gpvc.arturio.dev/Doctorstra)
 
 

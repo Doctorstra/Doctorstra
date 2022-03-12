@@ -76,11 +76,11 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🟩+🟩+🟩+🟩+🟩+🟩+🟩+🟩+🟩+🟩)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🟩+🟩+🟩+🟩+🟩+🟩+🟩+🟩+🟩+🟩)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🟩+🟩+🟩+🟩+🟩+🟩+🟩+🟩+🟩+🟩)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🟩+🟩+🟩+🟩+🟩+🟩+🟩+🟩+🟩+🟩)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧)](https://git.io/typing-svg
+Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧)](https://git.io/typing-svg
+Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧)](https://git.io/typing-svg
+Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧)](https://git.io/typing-svg
+Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧)](https://git.io/typing-svg)
 
 
 

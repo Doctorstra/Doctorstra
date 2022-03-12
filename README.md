@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VuehuL4fMHLgs/giphy.gif" />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/VuehuL4fMHLgs/giphy.gif" />
 
 
 

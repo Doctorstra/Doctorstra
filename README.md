@@ -2,7 +2,7 @@
 
 <img src="https://telegra.ph/file/b47746769d45aaa62d4b2.png" />                                                                                                                                                         
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=60&lines=꧁𝘄𝗲𝗹𝗰𝗼𝗺𝗲꧂;𝗧𝗼+♕𝗗𝗼𝗰𝘁𝗼𝗿𝘀𝘁𝗿𝗮+𝗚𝗶𝘁𝗵𝘂𝗯;𝗜+𝗔𝗺+♕𝗗𝗼𝗰𝘁𝗼𝗿𝘀𝘁𝗿𝗮;𝗙𝗿𝗼𝗺+༺☆𝗜𝗻𝗱𝗶𝗮☆༻🇮🇳)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=40&lines=꧁𝘄𝗲𝗹𝗰𝗼𝗺𝗲꧂;𝗧𝗼+♕𝗗𝗼𝗰𝘁𝗼𝗿𝘀𝘁𝗿𝗮+𝗚𝗶𝘁𝗵𝘂𝗯;𝗜+𝗔𝗺+♕𝗗𝗼𝗰𝘁𝗼𝗿𝘀𝘁𝗿𝗮;𝗙𝗿𝗼𝗺+༺☆𝗜𝗻𝗱𝗶𝗮☆༻🇮🇳)](https://git.io/typing-svg)
 
 # Hey, I am Doctorstra <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 

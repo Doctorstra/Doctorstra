@@ -1,10 +1,10 @@
-# PROFILE
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&color=4FC428&lines=𝗣𝗥𝗢𝗙𝗜𝗟𝗘)](https://git.io/typing-svg)
 
 <img src="https://telegra.ph/file/b47746769d45aaa62d4b2.png" />                                                                                                                                                         
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=꧁𝘄𝗲𝗹𝗰𝗼𝗺𝗲꧂;𝗧𝗼+♕𝗗𝗼𝗰𝘁𝗼𝗿𝘀𝘁𝗿𝗮+𝗚𝗶𝘁𝗵𝘂𝗯;𝗜+𝗔𝗺+♕𝗗𝗼𝗰𝘁𝗼𝗿𝘀𝘁𝗿𝗮;𝗙𝗿𝗼𝗺+༺☆𝗜𝗻𝗱𝗶𝗮☆༻🇮🇳)](https://git.io/typing-svg)
 
-# Hey, I am Doctorstra <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&color=4FC428&lines=𝗛𝗲𝘆,+𝗜+𝗮𝗺+𝗗𝗼𝗰𝘁𝗼𝗿𝘀𝘁𝗿𝗮)](https://git.io/typing-svg) <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
@@ -29,7 +29,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-### My Github Status
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&color=4FC428&lines=𝗠𝗬+𝗚𝗜𝗧𝗛𝗨𝗕+𝗦𝗧𝗔𝗧𝗨𝗦)](https://git.io/typing-svg)
 ![Doctorstrs's GitHub Status](https://github-readme-stats.vercel.app/api?username=Doctorstra&theme=dark&show_icons=true)
 
 <img src="https://telegra.ph/file/123a75a8a5dbd67632b56.jpg" />
@@ -52,7 +52,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-# MY TOOLS AND LANG
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&color=4FC428&lines=𝗠𝗬+𝗧𝗢𝗢𝗟𝗦+𝗔𝗡𝗗+𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘)](https://git.io/typing-svg)
 
 <p align ="left">
   <br />
@@ -70,7 +70,7 @@ You can use the website to generate badges: https://shields.io/
   <br>
 </p>  
 
-# MOST USED LANGUAGES
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&color=4FC428&lines=𝗠𝗢𝗦𝗧+𝗨𝗦𝗘𝗗+𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦)](https://git.io/typing-svg)
 <img src="https://telegra.ph/file/01aed5d11867fcd86c1e5.jpg">
 
 
@@ -84,7 +84,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 <h1 align="center">
-✨ Where you can find me ✨
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&color=4FC428&lines=✨+𝗪𝗵𝗲𝗿𝗲+𝘆𝗼𝘂+𝗰𝗮𝗻+𝗳𝗶𝗻𝗱+𝗺𝗲+✨)](https://git.io/typing-svg)
 
 
 

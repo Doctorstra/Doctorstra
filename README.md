@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 -  🚶‍ &nbsp; I live in : india 🇮🇳  <br>
--  🔭 I’m currently working on : *D.ASTLIN DIJO* 👻 Corporation  <br>
+-  🔭 I’m currently working on :  👻 Corporation  <br>
 -  📚 I went to :   infant Jesus e.m.h.s  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>

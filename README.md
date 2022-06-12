@@ -34,7 +34,16 @@ You can use the website to generate badges: https://shields.io/
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Doctorstra&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://telegra.ph/file/123a75a8a5dbd67632b56.jpg" />
+<p align="center">
+  <a href="https://github.com/Doctorstra">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doctorstra#version3"/>
+  </a>
+</p>
+<a href="https://github.com/Doctorstra"><img alt="Doctorstra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Doctorstra&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<details>
+  <summary>Activity Metrics</summary>
+<p align="left"> <a href="https://github.com/Doctorstra"><img src="https://metrics.lecoq.io/Doctorstra?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="Doctorstra" /></a> </p>
 
 ![Snake animation](https://github.com/Pratyay360/Pratyay360/blob/output/github-contribution-grid-snake.svg?size=100)
 

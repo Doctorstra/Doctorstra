@@ -11,6 +11,8 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&color=4FC428&lines=ASTLIN+DIJO)](https://git.io/typing-svg)
+
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->

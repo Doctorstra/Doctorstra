@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
 -  💬 Ask me about : ![website](https://img.shields.io/badge/Go%20to-www.Doctorstra.tk-brightgreen) <br>
--  ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-15-yellow) Teen 😄
+-  ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-16-yellow) Teen 😄
 -  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 

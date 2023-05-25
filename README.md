@@ -5,7 +5,9 @@
 
 💎 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=꧁𝘄𝗲𝗹𝗰𝗼𝗺𝗲꧂;𝗧𝗼+♕𝗗𝗼𝗰𝘁𝗼𝗿𝘀𝘁𝗿𝗮+𝗚𝗶𝘁𝗵𝘂𝗯;𝗜+𝗔𝗺+♕𝗗𝗼𝗰𝘁𝗼𝗿𝘀𝘁𝗿𝗮;𝗙𝗿𝗼𝗺+༺☆𝗜𝗻𝗱𝗶𝗮☆༻🇮🇳)](https://git.io/typing-svg)
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&color=4FC428&lines=𝗛𝗲𝘆,+𝗜+𝗮𝗺+𝗗𝗼𝗰𝘁𝗼𝗿𝘀𝘁𝗿𝗮)](https://git.io/typing-svg) <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&color=4FC428&lines=𝗛𝗲𝘆,+𝗜+𝗮𝗺+𝗗𝗼𝗰𝘁𝗼𝗿𝘀𝘁𝗿𝗮)](https://git.io/typing-svg) <img src="https://i.pinimg.com/originals/e2/45/27/e24527408cab572eb4a5adc8aec3afb5.gif" width=40% height=40%/>
+</p>
+
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />

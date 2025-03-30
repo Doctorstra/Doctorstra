@@ -14,12 +14,11 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 -  🚶‍ &nbsp; I live in : india 🇮🇳  <br>
--  🔭 I’m currently working on :  👻 Corporation  <br>
--  📚 I went to :   infant Jesus e.m.h.s  <br>
+-  🔭 I’m currently Studying  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
 -  💬 Ask me about : ![website](https://img.shields.io/badge/Go%20to-www.Doctorstra.tk-brightgreen) <br>
--  ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-16-yellow) Teen 😄
+-  ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-17-yellow) Teen 😄
 -  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 
@@ -94,9 +93,5 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://t.me/D1D2D3D4D5_BOT" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https:https://t.me/D1D2D3D4D5_BOT" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://t.me/D1D2D3D4D5_BOT" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
-<p align="center">
-<a href="https://t.me/+PyobDAisj5BjYmI1" target="blank"><img align="center" src="https://telegra.ph/file/b47746769d45aaa62d4b2.png" height="100" width="100" /></a> &nbsp;&nbsp;
-</p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/VGK2WUT3amXjG/giphy.gif" />

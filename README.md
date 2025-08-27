@@ -34,7 +34,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-<pre>
+
 
 📢 Note from Author
 
@@ -46,5 +46,4 @@ Now, I’m pursuing B.Tech in Artificial Intelligence & Data Science and I have 
   
 Thanks for visiting! 🚀
 
-</pre>
 

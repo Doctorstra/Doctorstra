@@ -23,17 +23,12 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VuehuL4fMHLgs/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/VuehuL4fMHLgs/giphy.gif" />
 
 -->
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&color=4FC428&lines=𝗠𝗬+𝗚𝗜𝗧𝗛𝗨𝗕+𝗦𝗧𝗔𝗧𝗨𝗦)](https://git.io/typing-svg)
 ![Doctorstrs's GitHub Status](https://github-readme-stats.vercel.app/api?username=Doctorstra&theme=dark&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Doctorstra&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Doctorstra&theme=alduin" alt="Doctorstra" /></a> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=100&duration=500&center=true&width=250&height=250&lines=%F0%9F%87%AE%F0%9F%87%B3;🛡️;❤️;🧡;💛;💚;💙;💜;🤎;🖤;🤍;♥️;💘;💝;💖;💗;💓;💞;💕;❣️;🙂;😀;😃;😄;😁;😆;😗;😙;😚;😘;🥰;😍;🤩;🥳;🙃;🙂;☺️;😊;😏;😌;😉;🤖;☠️;💫;🌟;⚡;💥;💯;💢;💐;🌹;🥀;🌷;🌺;🌸;🏵️;🌻;🌼;💮;🍂;🍁;🌾;🌱;🌿;🍃;☘️;🍀;🌵;🌴;🌳;🌲;❄️;🌨️;🌥️;🌦️;☁️;⛈️;🌩️;💧;🌕;🌙;🪐;🦀;🕸️;🍓;🍒;🍎;🍉;🍊;🥭;🍍;🍋;🍈;🍏;🍐;🍇;🥥;🍅;🌶️;🧅;🌽;🥦;🥒;🥬;🥑;🥕;🍄;🍆;🧄;🥔;🌰;🥜;🍞;🥐;🥖;🥯;🍔;🌭;🥪;🚨;🛑;🧭;🎃;🎄;🎋;🎍;🎑;💡;🕯️;💎;⏳;🏷️;📦;📂;🗂️;📚;📙;📘;📗;🗑️;📌;✂️;🛠️;⚒️;📡;🛰️;🔭;🔮;🛎️;❌;⭕;✨;⭐;🔥;🎉;👍)](https://git.io/typing-svg)
 

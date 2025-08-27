@@ -36,13 +36,7 @@ You can use the website to generate badges: https://shields.io/
 <img align="right" alt="GIF" src="https://media.giphy.com/media/VGK2WUT3amXjG/giphy.gif" />
 
 
-
-
-
-
-
-
-
+<p>
 
 📢 Note from Author
 
@@ -50,3 +44,6 @@ Hi! This GitHub account was created when I was in 8th/9th standard during the CO
 Now, I’m pursuing B.Tech in Artificial Intelligence & Data Science and I have started a new GitHub account where I will be uploading my original projects and future works.
 👉 Check out my new GitHub here: ![CLICK HERE](https://github.com/astlindijo)
 Thanks for visiting! 🚀
+
+</p>
+
